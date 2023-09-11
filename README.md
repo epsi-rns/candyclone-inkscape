@@ -168,26 +168,26 @@ You should see the tutorial for details.
 [template-thumbs-5]:https://github.com/epsi-rns/berkas2/raw/master/impress-template-candyclone/preview/thumbs-5.png
 [template-thumbs-6]:https://github.com/epsi-rns/berkas2/raw/master/impress-template-candyclone/preview/thumbs-6.png
 
-[template-thumbs-01]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs/01-blue.png
-[template-thumbs-02]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs/02-grey.png
-[template-thumbs-03]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs/03-brown.png
-[template-thumbs-04]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs/04-blue-grey.png
-[template-thumbs-05]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs/05-yellow.png
-[template-thumbs-06]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs/06-teal.png
-[template-thumbs-07]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs/07-red.png
-[template-thumbs-08]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs/08-purple.png
-[template-thumbs-09]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs/09-pink.png
-[template-thumbs-10]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs/10-orange.png
-[template-thumbs-11]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs/11-lime.png
-[template-thumbs-12]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs/12-light Green.png
-[template-thumbs-13]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs/13-light-blue.png
-[template-thumbs-14]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs/14-indigo.png
-[template-thumbs-15]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs/15-green.png
-[template-thumbs-16]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs/16-deep-purple.png
-[template-thumbs-17]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs/17-deep-orange.png
-[template-thumbs-18]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs/18-cyan.png
-[template-thumbs-19]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs/19-amber.png
-[template-thumbs-20]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs/20-multi-gradient.png
+[template-thumbs-01]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/01-blue.png
+[template-thumbs-02]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/02-grey.png
+[template-thumbs-03]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/03-brown.png
+[template-thumbs-04]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/04-blue-grey.png
+[template-thumbs-05]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/05-yellow.png
+[template-thumbs-06]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/06-teal.png
+[template-thumbs-07]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/07-red.png
+[template-thumbs-08]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/08-purple.png
+[template-thumbs-09]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/09-pink.png
+[template-thumbs-10]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/10-orange.png
+[template-thumbs-11]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/11-lime.png
+[template-thumbs-12]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/12-light-green.png
+[template-thumbs-13]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/13-light-blue.png
+[template-thumbs-14]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/14-indigo.png
+[template-thumbs-15]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/15-green.png
+[template-thumbs-16]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/16-deep-purple.png
+[template-thumbs-17]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/17-deep-orange.png
+[template-thumbs-18]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/18-cyan.png
+[template-thumbs-19]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/19-amber.png
+[template-thumbs-20]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/20-multi-gradient.png
 
 
 [isometric-wall]:   https://github.com/epsi-rns/isometric-wallpaper
