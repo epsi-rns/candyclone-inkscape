@@ -117,7 +117,32 @@ You should see the tutorial for details.
 
 -- -- --
 
-### Preview
+### Template Preview
+
+![Template: Candyclone: Thumbnails 01 - Blue][template-thumbs-01]
+![Template: Candyclone: Thumbnails 02 - Grey][template-thumbs-02]
+![Template: Candyclone: Thumbnails 03 - Brown][template-thumbs-03]
+![Template: Candyclone: Thumbnails 04 - Blue Grey][template-thumbs-04]
+![Template: Candyclone: Thumbnails 05 - Yellow][template-thumbs-05]
+![Template: Candyclone: Thumbnails 06 - Teal][template-thumbs-06]
+![Template: Candyclone: Thumbnails 07 - Red][template-thumbs-07]
+![Template: Candyclone: Thumbnails 08 - Purple][template-thumbs-08]
+![Template: Candyclone: Thumbnails 09 - Pink][template-thumbs-09]
+![Template: Candyclone: Thumbnails 10 - Orange][template-thumbs-10]
+![Template: Candyclone: Thumbnails 11 - Lime][template-thumbs-11]
+![Template: Candyclone: Thumbnails 12 - Light Green][template-thumbs-12]
+![Template: Candyclone: Thumbnails 13 - Light Blue][template-thumbs-13]
+![Template: Candyclone: Thumbnails 14 - Indigo][template-thumbs-14]
+![Template: Candyclone: Thumbnails 15 - Green][template-thumbs-15]
+![Template: Candyclone: Thumbnails 16 - Deep Purple][template-thumbs-16]
+![Template: Candyclone: Thumbnails 17 - Deep Orange][template-thumbs-17]
+![Template: Candyclone: Thumbnails 18 - Cyan][template-thumbs-18]
+![Template: Candyclone: Thumbnails 19 - Amber][template-thumbs-19]
+![Template: Candyclone: Thumbnails 20 - Multi Gradient][template-thumbs-20]
+
+-- -- --
+
+### Content Preview
 
 ![Template: Candyclone: Thumbnails 2][template-thumbs-2]
 
@@ -142,6 +167,28 @@ You should see the tutorial for details.
 [template-thumbs-4]:https://github.com/epsi-rns/berkas2/raw/master/impress-template-candyclone/preview/thumbs-4.png
 [template-thumbs-5]:https://github.com/epsi-rns/berkas2/raw/master/impress-template-candyclone/preview/thumbs-5.png
 [template-thumbs-6]:https://github.com/epsi-rns/berkas2/raw/master/impress-template-candyclone/preview/thumbs-6.png
+
+[template-thumbs-01]:https://github.com/epsi-rns/berkas2/raw/master/candyclone-inkscape/thumbs/01-blue.png
+[template-thumbs-02]:https://github.com/epsi-rns/berkas2/raw/master/candyclone-inkscape/thumbs/02-grey.png
+[template-thumbs-03]:https://github.com/epsi-rns/berkas2/raw/master/candyclone-inkscape/thumbs/03-brown.png
+[template-thumbs-04]:https://github.com/epsi-rns/berkas2/raw/master/candyclone-inkscape/thumbs/04-blue-grey.png
+[template-thumbs-05]:https://github.com/epsi-rns/berkas2/raw/master/candyclone-inkscape/thumbs/05-yellow.png
+[template-thumbs-06]:https://github.com/epsi-rns/berkas2/raw/master/candyclone-inkscape/thumbs/06-teal.png
+[template-thumbs-07]:https://github.com/epsi-rns/berkas2/raw/master/candyclone-inkscape/thumbs/07-red.png
+[template-thumbs-08]:https://github.com/epsi-rns/berkas2/raw/master/candyclone-inkscape/thumbs/08-purple.png
+[template-thumbs-09]:https://github.com/epsi-rns/berkas2/raw/master/candyclone-inkscape/thumbs/09-pink.png
+[template-thumbs-10]:https://github.com/epsi-rns/berkas2/raw/master/candyclone-inkscape/thumbs/10-orange.png
+[template-thumbs-11]:https://github.com/epsi-rns/berkas2/raw/master/candyclone-inkscape/thumbs/11-lime.png
+[template-thumbs-12]:https://github.com/epsi-rns/berkas2/raw/master/candyclone-inkscape/thumbs/12-light Green.png
+[template-thumbs-13]:https://github.com/epsi-rns/berkas2/raw/master/candyclone-inkscape/thumbs/13-light-blue.png
+[template-thumbs-14]:https://github.com/epsi-rns/berkas2/raw/master/candyclone-inkscape/thumbs/14-indigo.png
+[template-thumbs-15]:https://github.com/epsi-rns/berkas2/raw/master/candyclone-inkscape/thumbs/15-green.png
+[template-thumbs-16]:https://github.com/epsi-rns/berkas2/raw/master/candyclone-inkscape/thumbs/16-deep-purple.png
+[template-thumbs-17]:https://github.com/epsi-rns/berkas2/raw/master/candyclone-inkscape/thumbs/17-deep-orange.png
+[template-thumbs-18]:https://github.com/epsi-rns/berkas2/raw/master/candyclone-inkscape/thumbs/18-cyan.png
+[template-thumbs-19]:https://github.com/epsi-rns/berkas2/raw/master/candyclone-inkscape/thumbs/19-amber.png
+[template-thumbs-20]:https://github.com/epsi-rns/berkas2/raw/master/candyclone-inkscape/thumbs/20-multi-gradient.png
+
 
 [isometric-wall]:   https://github.com/epsi-rns/isometric-wallpaper
 [kartu-nama]:       https://akutidaktahu.netlify.app/inkscape/2017/10/03/kartu-nama.html
