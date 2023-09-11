@@ -106,14 +106,15 @@ Enjoy his videos too.
 
 -- -- --
 
-## Inkscape: Content Illustration Source
+## Inkscape: Template Source
 
-> Make this Template Usable
+> You can make your own.
 
-Available here in [template-candyclone-content.svg][candyclone-content].
+Available here in [template-candyclone-multipages.svg][candyclone-template].
 
-It is a big file consist of 15 infographic diagrams.
-You should see the tutorial for details.
+Each five kind of master slides implemented with
+19 google colors + 1 experimental gradient for fun.
+Resulting total of 100 master slides.
 
 -- -- --
 
@@ -142,6 +143,17 @@ You should see the tutorial for details.
 
 -- -- --
 
+## Inkscape: Content Illustration Source
+
+> Make this Template Usable
+
+Available here in [template-candyclone-content.svg][candyclone-content].
+
+It is a big file consist of 15 infographic diagrams.
+You should see the tutorial for details.
+
+-- -- --
+
 ### Content Preview
 
 ![Template: Candyclone: Thumbnails 2][template-thumbs-2]
@@ -159,6 +171,7 @@ You should see the tutorial for details.
 [hervy-qa-bluez]:   https://hervyqa.com/gnome-bluez-libreoffice-impress-free-template/
 [hervy-qa-video]:   http://www.youtube.com/watch?v=O3urHT5AHG8
 
+[candyclone-template]:  https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/template-candyclone-multipages.svg
 [candyclone-content]:   https://github.com/epsi-rns/berkas2/blob/master/impress-template-candyclone/template-candyclone.svg
 
 [template-thumbs-1]:https://github.com/epsi-rns/berkas2/raw/master/impress-template-candyclone/preview/thumbs-1.png
