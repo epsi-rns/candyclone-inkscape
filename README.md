@@ -146,7 +146,7 @@ Resulting total of 100 master slides.
 
 Available here in [template-candyclone-content.svg][candyclone-content].
 
-It is a big file consist of 15 infographic diagrams.
+It is a big file consist of eight sections of infographic diagrams.
 You should see the tutorial for details.
 
 -- -- --
