@@ -120,26 +120,26 @@ Resulting total of 100 master slides.
 
 ### Template Preview
 
-![Template: Candyclone: Thumbnails 01 - Blue][template-thumbs-01]
-![Template: Candyclone: Thumbnails 02 - Grey][template-thumbs-02]
-![Template: Candyclone: Thumbnails 03 - Brown][template-thumbs-03]
-![Template: Candyclone: Thumbnails 04 - Blue Grey][template-thumbs-04]
-![Template: Candyclone: Thumbnails 05 - Yellow][template-thumbs-05]
-![Template: Candyclone: Thumbnails 06 - Teal][template-thumbs-06]
-![Template: Candyclone: Thumbnails 07 - Red][template-thumbs-07]
-![Template: Candyclone: Thumbnails 08 - Purple][template-thumbs-08]
-![Template: Candyclone: Thumbnails 09 - Pink][template-thumbs-09]
-![Template: Candyclone: Thumbnails 10 - Orange][template-thumbs-10]
-![Template: Candyclone: Thumbnails 11 - Lime][template-thumbs-11]
-![Template: Candyclone: Thumbnails 12 - Light Green][template-thumbs-12]
-![Template: Candyclone: Thumbnails 13 - Light Blue][template-thumbs-13]
-![Template: Candyclone: Thumbnails 14 - Indigo][template-thumbs-14]
-![Template: Candyclone: Thumbnails 15 - Green][template-thumbs-15]
-![Template: Candyclone: Thumbnails 16 - Deep Purple][template-thumbs-16]
-![Template: Candyclone: Thumbnails 17 - Deep Orange][template-thumbs-17]
-![Template: Candyclone: Thumbnails 18 - Cyan][template-thumbs-18]
-![Template: Candyclone: Thumbnails 19 - Amber][template-thumbs-19]
-![Template: Candyclone: Thumbnails 20 - Multi Gradient][template-thumbs-20]
+![Thumbnails 01 - Blue][template-thumbs-01]
+![Thumbnails 02 - Grey][template-thumbs-02]
+![Thumbnails 03 - Brown][template-thumbs-03]
+![Thumbnails 04 - Blue Grey][template-thumbs-04]
+![Thumbnails 05 - Yellow][template-thumbs-05]
+![Thumbnails 06 - Teal][template-thumbs-06]
+![Thumbnails 07 - Red][template-thumbs-07]
+![Thumbnails 08 - Purple][template-thumbs-08]
+![Thumbnails 09 - Pink][template-thumbs-09]
+![Thumbnails 10 - Orange][template-thumbs-10]
+![Thumbnails 11 - Lime][template-thumbs-11]
+![Thumbnails 12 - Light Green][template-thumbs-12]
+![Thumbnails 13 - Light Blue][template-thumbs-13]
+![Thumbnails 14 - Indigo][template-thumbs-14]
+![Thumbnails 15 - Green][template-thumbs-15]
+![Thumbnails 16 - Deep Purple][template-thumbs-16]
+![Thumbnails 17 - Deep Orange][template-thumbs-17]
+![Thumbnails 18 - Cyan][template-thumbs-18]
+![Thumbnails 19 - Amber][template-thumbs-19]
+![Thumbnails 20 - Multi Gradient][template-thumbs-20]
 
 -- -- --
 
@@ -156,15 +156,16 @@ You should see the tutorial for details.
 
 ### Content Preview
 
-![Template: Candyclone: Thumbnails 2][template-thumbs-2]
-
-![Template: Candyclone: Thumbnails 3][template-thumbs-3]
-
-![Template: Candyclone: Thumbnails 4][template-thumbs-4]
-
-![Template: Candyclone: Thumbnails 5][template-thumbs-5]
-
-![Template: Candyclone: Thumbnails 6][template-thumbs-6]
+![Thumbnails 01 - Preface][template-content-01]
+![Thumbnails 02 - Master Slides][template-content-02]
+![Thumbnails 03 - Box, Chart, Figures][template-content-03]
+![Thumbnails 04 - Table and Forms][template-content-04]
+![Thumbnails 05 - Bullet Numbering][template-content-05]
+![Thumbnails 06 - Flow and Milestones][template-content-06]
+![Thumbnails 07 - Bolt and Disc][template-content-07]
+![Thumbnails 08 - 3D Frames][template-content-08]
+![Thumbnails 09 - Point of Drops][template-content-09]
+![Thumbnails 10 - Closing][template-content-10]
 
 [template-candy]:   https://github.com/epsi-rns/berkas2/raw/master/impress-template-candyclone/preview/template-candyclone-cover.png
 [impress-slides-2]: https://epsi-rns.gitlab.io/design/2020/09-impress/22/inkscape-impress-slides-02/
@@ -201,6 +202,18 @@ You should see the tutorial for details.
 [template-thumbs-18]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/18-cyan.png
 [template-thumbs-19]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/19-amber.png
 [template-thumbs-20]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/20-multi-gradient.png
+
+
+[template-content-01]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-content/01-preface.png
+[template-content-02]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-content/02-master-slides.png
+[template-content-03]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-content/03-box-chart-figures.png
+[template-content-04]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-content/04-table-and-form.png
+[template-content-05]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-content/05-bullet-numbering.png
+[template-content-06]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-content/06-flow-and-milestones.png
+[template-content-07]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-content/07-bolt-and-disc.png
+[template-content-08]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-content/08-3d-frames.png
+[template-content-09]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-content/09-point-of-drops.png
+[template-content-10]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-content/10-closing.png
 
 
 [isometric-wall]:   https://github.com/epsi-rns/isometric-wallpaper
