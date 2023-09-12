@@ -8,10 +8,7 @@ The impress version itself is a
 classic modern template based on the looks of Hervy's works.
 I rewrite all master slides using inkscape.
 
-> Four kind of master slides with 19 material colors.
-> The result is 76 master slides.
-
-![Template: Candyclone][template-thumbs-1]
+![Template: Candyclone][template-candy]
 
 -- -- --
 
@@ -167,20 +164,13 @@ You should see the tutorial for details.
 ![Thumbnails 09 - Point of Drops][template-content-09]
 ![Thumbnails 10 - Closing][template-content-10]
 
-[template-candy]:   https://github.com/epsi-rns/berkas2/raw/master/impress-template-candyclone/preview/template-candyclone-cover.png
+[template-candy]:   https://github.com/epsi-rns/candyclone-inkscape/raw/main/preview/template-candyclone-cover.png
 [impress-slides-2]: https://epsi-rns.gitlab.io/design/2020/09-impress/22/inkscape-impress-slides-02/
 [hervy-qa-bluez]:   https://hervyqa.com/gnome-bluez-libreoffice-impress-free-template/
 [hervy-qa-video]:   http://www.youtube.com/watch?v=O3urHT5AHG8
 
-[candyclone-template]:  https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/template-candyclone-multipages.svg
-[candyclone-content]:   https://github.com/epsi-rns/berkas2/blob/master/impress-template-candyclone/template-candyclone.svg
-
-[template-thumbs-1]:https://github.com/epsi-rns/berkas2/raw/master/impress-template-candyclone/preview/thumbs-1.png
-[template-thumbs-2]:https://github.com/epsi-rns/berkas2/raw/master/impress-template-candyclone/preview/thumbs-2.png
-[template-thumbs-3]:https://github.com/epsi-rns/berkas2/raw/master/impress-template-candyclone/preview/thumbs-3.png
-[template-thumbs-4]:https://github.com/epsi-rns/berkas2/raw/master/impress-template-candyclone/preview/thumbs-4.png
-[template-thumbs-5]:https://github.com/epsi-rns/berkas2/raw/master/impress-template-candyclone/preview/thumbs-5.png
-[template-thumbs-6]:https://github.com/epsi-rns/berkas2/raw/master/impress-template-candyclone/preview/thumbs-6.png
+[candyclone-template]:  https://github.com/epsi-rns/candyclone-inkscape/blob/main/template-candyclone-multipages.svg
+[candyclone-content]:   https://github.com/epsi-rns/candyclone-inkscape/blob/main/template-candyclone-content.svg
 
 [template-thumbs-01]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/01-blue.png
 [template-thumbs-02]:https://raw.githubusercontent.com/epsi-rns/candyclone-inkscape/main/thumbs-template/02-grey.png
