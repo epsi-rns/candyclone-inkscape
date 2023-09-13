@@ -8,7 +8,11 @@ The impress version itself is a
 classic modern template based on the looks of Hervy's works.
 I rewrite all master slides using inkscape.
 
-![Template: Candyclone][template-candy]
+![Inkscape Template: Candyclone Preview][template-candy]
+
+The impress version can be found here:
+
+![Impress Template: Candyclone][impress-slides]
 
 -- -- --
 
@@ -16,7 +20,12 @@ I rewrite all master slides using inkscape.
 
 ### License
 
-CC-BY-SA 4.0
+This template along with all the artwork is licensed as Public Domain.
+
+![Template Licensed: Public Domain][public-domain]
+
+You can do whatever you want.
+No need any attribution.
 
 ### Slides Ratio
 
@@ -37,11 +46,13 @@ Google Material Pallete has 19 distinct color type.
 
 ### Master Slide
 
-> 4 * 19
+> 5 * (19+1)
 
 There are only four kinds of master slides:
 
-* Default
+* Default: 40px left, 30px right
+
+* Default: 40px left, 40px right
 
 * Chapter: For chapter title or chapter break
 
@@ -49,8 +60,9 @@ There are only four kinds of master slides:
 
 * Background: Inverted version of default, using background
 
-Each four kind of master slides implemented with 19 google colors.
-Resulting total of 76 master slides.
+Each four kind of master slides implemented with 19 google colors,
++ 1 gradient
+Resulting total of 100 master slides.
 
 -- -- --
 
@@ -164,7 +176,9 @@ You should see the tutorial for details.
 ![Thumbnails 09 - Point of Drops][template-content-09]
 ![Thumbnails 10 - Closing][template-content-10]
 
-[template-candy]:   https://github.com/epsi-rns/candyclone-inkscape/raw/main/preview/template-candyclone-cover.png
+[impress-slides]:   https://github.com/epsi-rns/berkas2/tree/master/impress-presentation
+[template-candy]:   https://github.com/epsi-rns/candyclone-inkscape/raw/main/images/template-candyclone-cover.png
+[public-domain]:    https://github.com/epsi-rns/candyclone-inkscape/raw/main/images/cc-pdm.png
 [impress-slides-2]: https://epsi-rns.gitlab.io/design/2020/09-impress/22/inkscape-impress-slides-02/
 [hervy-qa-bluez]:   https://hervyqa.com/gnome-bluez-libreoffice-impress-free-template/
 [hervy-qa-video]:   http://www.youtube.com/watch?v=O3urHT5AHG8
