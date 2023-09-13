@@ -12,7 +12,7 @@ I rewrite all master slides using inkscape.
 
 The impress version can be found here:
 
-![Impress Template: Candyclone][impress-slides]
+* [Impress Template: Candyclone][impress-slides]
 
 -- -- --
 
