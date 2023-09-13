@@ -60,8 +60,8 @@ There are only four kinds of master slides:
 
 * Background: Inverted version of default, using background
 
-Each four kind of master slides implemented with 19 google colors,
-+ 1 gradient
+Each four kind of master slides implemented
+with 19 google colors + 1 gradient slide.
 Resulting total of 100 master slides.
 
 -- -- --
