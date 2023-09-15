@@ -16,6 +16,12 @@ The impress version can be found here:
 
 -- -- --
 
+## Preview
+
+<video width="676" height="620" src="https://github.com/epsi-rns/candyclone-inkscape/raw/main/isometric/iso-amix.mp4"></video>
+
+-- -- --
+
 ## Specification
 
 ### License
