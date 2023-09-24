@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
-   sodipodi:docname="cc-step-04.svg"
+   sodipodi:docname="cc-step-05.svg"
    inkscape:export-filename="cc-step-04-red.png"
    inkscape:export-xdpi="48"
    inkscape:export-ydpi="48"
@@ -26,15 +26,53 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="0.2102413"
-     inkscape:cx="818.10757"
-     inkscape:cy="447.1053"
-     inkscape:window-width="1886"
+     inkscape:zoom="0.1315625"
+     inkscape:cx="-828.50356"
+     inkscape:cy="2409.5012"
+     inkscape:window-width="1315"
      inkscape:window-height="962"
      inkscape:window-x="14"
      inkscape:window-y="38"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g13-6" />
+     inkscape:current-layer="g13-6">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="1600"
+       height="900"
+       id="page-01.01"
+       margin="0"
+       bleed="0"
+       inkscape:label="Default: 40:30" />
+    <inkscape:page
+       x="0"
+       y="1000"
+       width="1600"
+       height="900"
+       id="page-01.02"
+       inkscape:label="Default: 40:40" />
+    <inkscape:page
+       x="0"
+       y="2000"
+       width="1600"
+       height="900"
+       id="page-01.03"
+       inkscape:label="Single: Chapter" />
+    <inkscape:page
+       x="0"
+       y="3000"
+       width="1600"
+       height="900"
+       id="page-01.04"
+       inkscape:label="Image: Title" />
+    <inkscape:page
+       x="0"
+       y="4000"
+       width="1600"
+       height="900"
+       id="page-01.05"
+       inkscape:label="Alternate: Background" />
+  </sodipodi:namedview>
   <defs
      id="defs1" />
   <g
@@ -60,7 +98,7 @@
        id="g13-6"
        inkscape:label="Source: Vertlines"
        sodipodi:insensitive="true"
-       style="display:inline">
+       style="display:none">
       <rect
          style="fill:#1976d2;stroke-width:0.999998;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.999998, 0.999998"
          id="rect8-2"
@@ -115,7 +153,7 @@
        id="layer2"
        inkscape:label="Source: Line"
        sodipodi:insensitive="true"
-       style="display:inline">
+       style="display:none">
       <rect
          style="fill:#1976d2;stroke-width:0.999998;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.999998, 0.999998"
          id="rect2"

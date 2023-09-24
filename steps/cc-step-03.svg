@@ -9,6 +9,9 @@
    id="svg1"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="cc-step-03.svg"
+   inkscape:export-filename="cc-step-04-red.png"
+   inkscape:export-xdpi="48"
+   inkscape:export-ydpi="48"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,12 +29,12 @@
      inkscape:zoom="0.2102413"
      inkscape:cx="818.10757"
      inkscape:cy="447.1053"
-     inkscape:window-width="798"
-     inkscape:window-height="580"
-     inkscape:window-x="480"
-     inkscape:window-y="249"
+     inkscape:window-width="1886"
+     inkscape:window-height="962"
+     inkscape:window-x="14"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="g22" />
   <defs
      id="defs1" />
   <g
@@ -54,8 +57,65 @@
      id="g2">
     <g
        inkscape:groupmode="layer"
+       id="g13-6"
+       inkscape:label="Source: Vertlines"
+       sodipodi:insensitive="true"
+       style="display:none">
+      <rect
+         style="fill:#1976d2;stroke-width:0.999998;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.999998, 0.999998"
+         id="rect8-2"
+         width="40"
+         height="900"
+         x="0"
+         y="0"
+         inkscape:label="Left: 40" />
+      <rect
+         style="fill:#2196f3;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1, 1"
+         id="rect9-9"
+         width="30"
+         height="900"
+         x="1570"
+         y="0"
+         inkscape:label="Right: 30" />
+      <rect
+         style="fill:#0d47a1;stroke-width:0.999999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.999999, 0.999999"
+         id="rect10"
+         width="40"
+         height="500"
+         x="100"
+         y="0"
+         inkscape:label="Left Top: 40" />
+      <rect
+         style="fill:#64b5f6;stroke-width:0.999999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.999999, 0.999999"
+         id="rect11"
+         width="80"
+         height="500"
+         x="200"
+         y="400"
+         inkscape:label="Left Bottom: 80" />
+      <rect
+         style="fill:#64b5f6;stroke-width:0.999999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.999999, 0.999999"
+         id="rect12"
+         width="80"
+         height="500"
+         x="1400"
+         y="0"
+         inkscape:label="Right Top: 80" />
+      <rect
+         style="fill:#0d47a1;stroke-width:0.999999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.999999, 0.999999"
+         id="rect13"
+         width="40"
+         height="500"
+         x="1500"
+         y="400"
+         inkscape:label="Right Bottom: 40" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="layer2"
-       inkscape:label="Source: Line">
+       inkscape:label="Source: Line"
+       sodipodi:insensitive="true"
+       style="display:inline">
       <rect
          style="fill:#1976d2;stroke-width:0.999998;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.999998, 0.999998"
          id="rect2"
@@ -108,6 +168,71 @@
          y="1434.2136"
          inkscape:label="Right Bottom: 40"
          transform="rotate(-45)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g13"
+       inkscape:label="Source: Cut"
+       sodipodi:insensitive="true"
+       style="display:none">
+      <path
+         style="fill:#1976d2;stroke-width:0.999998;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.999998, 0.999998"
+         d="M 0,656.56836 V 900 H 40 V 696.56836 Z"
+         id="path14" />
+      <path
+         style="fill:#1976d2;stroke-width:0.999998;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.999998, 0.999998"
+         d="m 0,128.28516 v 415.14648 l 40,40 V 168.28516 Z"
+         id="path13" />
+      <path
+         style="fill:#1976d2;stroke-width:0.999998;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.999998, 0.999998"
+         d="M 0,0 V 71.714844 L 40,111.71484 V 0 Z"
+         id="rect8" />
+      <path
+         style="fill:#2196f3;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1, 1"
+         d="M 1570,798.28516 V 900 h 30 v -71.71484 z"
+         id="path16" />
+      <path
+         style="fill:#2196f3;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1, 1"
+         d="m 1570,326.56836 v 415.14648 l 30,30 V 356.56836 Z"
+         id="path15" />
+      <path
+         style="fill:#2196f3;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1, 1"
+         d="m 1570,0 v 213.43164 l 30,30 V 0 Z"
+         id="rect9" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g22"
+       inkscape:label="Blue"
+       sodipodi:insensitive="true"
+       style="display:none">
+      <g
+         id="g23">
+        <path
+           style="fill:#0d47a1;stroke-width:0.999998;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.999998, 0.999998"
+           d="M 0,656.56836 V 900 H 40 V 696.56836 Z"
+           id="path17" />
+        <path
+           style="fill:#1976d2;stroke-width:0.999998;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.999998, 0.999998"
+           d="m 0,128.28516 v 415.14648 l 40,40 V 168.28516 Z"
+           id="path18" />
+        <path
+           style="fill:#2196f3;stroke-width:0.999998;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.999998, 0.999998"
+           d="M 0,0 V 71.714844 L 40,111.71484 V 0 Z"
+           id="path19" />
+        <path
+           style="fill:#2196f3;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1, 1"
+           d="M 1570,798.28516 V 900 h 30 v -71.71484 z"
+           id="path20" />
+        <path
+           style="fill:#64b5f6;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1, 1"
+           d="m 1570,326.56836 v 415.14648 l 30,30 V 356.56836 Z"
+           id="path21" />
+        <path
+           style="fill:#bbdefb;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1, 1"
+           d="m 1570,0 v 213.43164 l 30,30 V 0 Z"
+           id="path22" />
+      </g>
     </g>
   </g>
 </svg>
