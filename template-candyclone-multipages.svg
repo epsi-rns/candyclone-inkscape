@@ -694,7 +694,7 @@
      inkscape:window-y="38"
      inkscape:window-x="14"
      inkscape:window-height="962"
-     inkscape:window-width="1886"
+     inkscape:window-width="1410"
      inkscape:pagecheckerboard="true"
      units="px"
      showgrid="false"
@@ -1428,7 +1428,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
