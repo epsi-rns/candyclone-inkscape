@@ -95,7 +95,7 @@ Enjoy his videos too.
 
 ## Tutorial
 
-* [Inkscape: Slides - Overview][inkscape-slides-2]
+* [Inkscape: Slides - Overview][inkscape-tutorial]
 
 -- -- --
 
@@ -186,7 +186,7 @@ You should see the tutorial for details.
 [template-candy]:   https://github.com/epsi-rns/candyclone-inkscape/raw/main/images/template-candyclone-cover.png
 [public-domain]:    https://github.com/epsi-rns/candyclone-inkscape/raw/main/images/cc-pdm.png
 [impress-slides-2]: https://epsi-rns.gitlab.io/design/2020/09-impress/22/inkscape-impress-slides-02/
-[inkscape-slides-2]:https://epsi-rns.gitlab.io/design/2022/09/01/inkscape-slide-templates-01/
+[inkscape-tutorial]:https://epsi-rns.gitlab.io/design/2022/09/01/inkscape-slide-templates-01/
 [hervy-qa-bluez]:   https://hervyqa.id/gnome-bluez-libreoffice-impress-free-template/
 [hervy-qa-video]:   http://www.youtube.com/watch?v=O3urHT5AHG8
 
